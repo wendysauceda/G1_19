@@ -1,4 +1,4 @@
-<?php
+<?php  //El error< estaba repetido
     class conectar{
         protected $dbh;
 
